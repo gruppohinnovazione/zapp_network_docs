@@ -1,0 +1,10 @@
+# Gruppo H – Registro Hash Ufficiale (SHA-256)
+
+Documento: ZAPP_NETWORK_Proposta_Etica_Maggio2025.pdf  
+SHA-256: 5ffe03f216e37b6c47ca076ea6a233cbe9bbb8db0a7433bd8ccaa75bf7e20be6  
+Data generazione: 15/05/2025
+
+Questo registro certifica l'integrità e la paternità del documento fondante di ZAPP NETWORK.  
+Firme digitali o sistemi distribuiti potranno essere integrati in seguito per rafforzare la verifica pubblica.
+
+Licenza documento: AGPLv3
