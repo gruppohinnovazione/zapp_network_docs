@@ -1,0 +1,61 @@
+===========================
+GRUPPO H – ETHICAL MANIFESTO
+===========================
+
+📍 Title: Human Sovereignty over Technology  
+📅 Date: 15/05/2025  
+✍️ Author: Gianluca Anselmo (Gruppo H APS, in formation)
+
+---
+
+🧭 CORE PRINCIPLES
+
+1. **Centrality of the human being**  
+   Technology must be designed to serve humans, not to dominate, surveil, or manipulate them.
+
+2. **Distributed ethics**  
+   Every technological implementation must be built upon transparent, local, and ethical social contracts. Ethics is not an add-on, it is the core architecture.
+
+3. **Accessibility and inclusion**  
+   Access to technology must be democratic, sustainable, and aimed at reducing inequality.
+
+4. **Data sovereignty**  
+   Every individual has the right to own, control, and protect their personal digital data.
+
+5. **Decentralization as a safeguard**  
+   The concentration of technological power is dangerous. Blockchain, federated networks, and local governance are tools of resilience and resistance.
+
+---
+
+⚙️ PROPOSED TOOLS
+
+- **ZAPP**: a civic, ethical and federated voice-based platform based on voice assistants, civic reputation and local digital wallets.
+- **Open source and free licenses**: all code and documentation must be open, modifiable, and protected by licenses that prevent privatization or distortion of its founding ideals.
+- **Distributed validation**: every official version of founding documents must be accompanied by verifiable hashes and, when possible, registration on blockchain.
+
+---
+
+🫱 WHO WE CALL TO RAISE THIS FLAG
+
+- Ethical developers and engineers  
+- Independent students and scholars  
+- Digital activists  
+- Local communities, merchants, artisans  
+- All those who believe another future is possible
+
+---
+
+🧩 IDENTITY
+
+Gruppo H APS – Association for Ethical Digital Innovation  
+In formation, in motion, in struggle.
+
+---
+
+📜 LICENSE
+
+This manifesto is released under the **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)** license.
+
+===========================
+"Resist with technology. Defend the human. Share the future."
+===========================

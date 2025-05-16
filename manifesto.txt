@@ -1,0 +1,61 @@
+===========================
+GRUPPO H – MANIFESTO ETICO
+===========================
+
+📍 Titolo: Sovranità Umana sulla Tecnologia
+📅 Data: 15/05/2025
+✍️ Autore: Gianluca Anselmo (Gruppo H APS, in formazione)
+
+---
+
+🧭 PRINCIPI FONDAMENTALI
+
+1. **Centralità dell'essere umano**
+   La tecnologia deve essere progettata per servire l'essere umano, non per dominarlo, sorvegliarlo o manipolarlo.
+
+2. **Etica distribuita**
+   Ogni applicazione tecnologica deve essere costruita secondo patti etici, locali e trasparenti. L’etica non è una sovrastruttura, ma l’architettura di base.
+
+3. **Accessibilità e inclusione**
+   L'accesso alla tecnologia deve essere democratico, sostenibile e orientato alla riduzione delle disuguaglianze.
+
+4. **Sovranità dei dati**
+   Ogni individuo ha il diritto di possedere, controllare e proteggere i propri dati digitali.
+
+5. **Decentralizzazione come garanzia**
+   La concentrazione del potere tecnologico è pericolosa. Blockchain, reti federate e governance locale sono strumenti di resistenza.
+
+---
+
+⚙️ STRUMENTI PROPOSTI
+
+- **ZAPP**: una piattaforma civica vocale, etica e federata, basata su assistenti vocali, reputazione civica e wallet territoriale.
+- **Open source e licenze libere**: il codice e i documenti devono essere aperti, modificabili e protetti da licenze che impediscano la privatizzazione o la corruzione degli ideali fondanti.
+- **Validazione distribuita**: ogni versione ufficiale dei documenti deve essere accompagnata da hash verificabili e, se possibile, registrazione su blockchain.
+
+---
+
+🫱 CHI CHIAMIAMO A RACCOGLIERE QUESTA BANDIERA
+
+- Sviluppatori e ingegneri etici
+- Studenti e studiosi liberi
+- Attivisti digitali
+- Comunità locali, commercianti, artigiani
+- Tutti coloro che credono che un altro futuro sia possibile
+
+---
+
+🧩 APPARTENENZA
+
+Gruppo H APS – Associazione per l’Innovazione Digitale Etica  
+In formazione, in cammino, in lotta.
+
+---
+
+📜 LICENZA
+
+Questo manifesto è rilasciato sotto licenza **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)**
+
+===========================
+"Resistere con la tecnologia. Difendere l’umano. Condividere il futuro."
+===========================

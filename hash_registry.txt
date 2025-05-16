@@ -4,7 +4,12 @@ Documento: ZAPP_NETWORK_Proposta_Etica_Maggio2025.pdf
 SHA-256: 5ffe03f216e37b6c47ca076ea6a233cbe9bbb8db0a7433bd8ccaa75bf7e20be6  
 Data generazione: 15/05/2025
 
-Questo registro certifica l'integrità e la paternità del documento fondante di ZAPP NETWORK.  
-Firme digitali o sistemi distribuiti potranno essere integrati in seguito per rafforzare la verifica pubblica.
+Documento: manifesto.txt  
+SHA-256: c0ddc94051f2e494f6ed6c43c811ce268f2da832c17d7e5c785d386795f858f7  
+Data generazione: 16/05/2025
 
-Licenza documento: AGPLv3
+Documento: manifesto_en.txt  
+SHA-256: 9dc039bb20803f68aea4ac6bdea8388858e6206eec9790567e7d59b3e656c310  
+Data generazione: 16/05/2025
+
+Questo registro certifica l'integrità e la paternità dei documenti fondanti del progetto ZAPP NETWORK e dell'associazione Gruppo H APS.
